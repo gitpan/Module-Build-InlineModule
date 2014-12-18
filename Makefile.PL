@@ -20,10 +20,10 @@ my %WriteMakefileArgs = (
   "LICENSE" => "perl",
   "NAME" => "Module::Build::InlineModule",
   "PREREQ_PM" => {
-    "Inline::Module" => 0,
+    "Inline::Module" => "0.25",
     "Module::Build" => 0
   },
-  "VERSION" => "0.02",
+  "VERSION" => "0.03",
   "test" => {
     "TESTS" => "t/*.t"
   }
@@ -31,7 +31,7 @@ my %WriteMakefileArgs = (
 
 
 my %FallbackPrereqs = (
-  "Inline::Module" => 0,
+  "Inline::Module" => "0.25",
   "Module::Build" => 0
 );
 

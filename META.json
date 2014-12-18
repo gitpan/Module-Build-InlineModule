@@ -34,7 +34,7 @@
       },
       "runtime" : {
          "requires" : {
-            "Inline::Module" : "0",
+            "Inline::Module" : "0.25",
             "Module::Build" : "0",
             "perl" : "v5.8.1"
          }
@@ -52,6 +52,6 @@
          "web" : "https://github.com/ingydotnet/module-build-inlinemodule-pm"
       }
    },
-   "version" : "0.02"
+   "version" : "0.03"
 }
 

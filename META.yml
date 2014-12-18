@@ -19,11 +19,11 @@ no_index:
     - xt
     - example
 requires:
-  Inline::Module: '0'
+  Inline::Module: '0.25'
   Module::Build: '0'
   perl: v5.8.1
 resources:
   bugtracker: https://github.com/ingydotnet/module-build-inlinemodule-pm/issues
   homepage: https://github.com/ingydotnet/module-build-inlinemodule-pm
   repository: https://github.com/ingydotnet/module-build-inlinemodule-pm.git
-version: '0.02'
+version: '0.03'

@@ -1,3 +1,6 @@
+0.03 Thu Dec 18 11:15:52 PST 2014
+ - Refactor common logic into Inline::Module
+
 0.02 Wed Dec 17 15:06:29 PST 2014
  - First working version
  - Handles Inline compilation and distdir
